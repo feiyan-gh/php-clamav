@@ -1,5 +1,5 @@
 {
-  "name": "appwrite/php-clamav",
+  "name": "feiyan-gh/php-clamav",
   "description": "ClamAV network and pipe client for PHP",
   "type": "library",
   "keywords": [
